@@ -6,4 +6,4 @@ A page that allows a user to add items or tasks to a to do list.  Once the items
 
 ![snapshot with tasks](./assets/images/with-tasks.png)
 
-Deployed Page:
+Deployed Page: https://richardbaier.github.io/todo-list/
